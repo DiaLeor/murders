@@ -2,7 +2,7 @@
 title: "Duplicate Report on Gun Murders"
 author: "Dia Leor Paule"
 date: "9/6/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
